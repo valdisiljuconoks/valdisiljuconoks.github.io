@@ -11,7 +11,7 @@ My name is **Valdis Iljuconoks** (aka **Technical Fellow**) and here I'm writing
 **Most Valuable Professional (MVP)** 
 
 I'm proud to be one for *Microsoft .NET* ([https://mvp.microsoft.com/](https://mvp.microsoft.com/en-us/PublicProfile/4024626?fullName=Valdis%20%20Iljuconoks)).
-And also for *EPiServer* ([EMVP Announcement](http://world.episerver.com/Articles/Items/EMVP-Announcement/)).
+And also for *EPiServer* ([EMVP Announcement](https://world.episerver.com/Articles/Items/EMVP-Announcement/)).
 
 ![](https://github.com/valdisiljuconoks/valdisiljuconoks.github.io/blob/495be3b6b97e9559fe8e776d98989062f75782af/assets/img/IMG_7992_tiny.jpg)
 

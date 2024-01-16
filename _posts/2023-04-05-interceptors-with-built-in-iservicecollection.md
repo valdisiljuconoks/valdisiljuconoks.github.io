@@ -3,7 +3,7 @@ title: How to Build Interceptor with built-in Microsoft DI - IServiceProvider
 author: valdis
 date: 2023-04-05 14:00:00 +0200
 categories: [C#, .NET, Dependency Injection, IoC, Containers, Interceptor]
-tags: [c#, .NET]
+tags: [C#, .NET]
 ---
 
 **Service Interception** is known as an altering process to make it look like service instance is delivered to the calling site by contract, but it could altered and totally another type might be hidden by the interface.

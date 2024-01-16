@@ -37,7 +37,7 @@ Now we need to add two things to the template:
 
 a) add required `using` (`Ln 18`):
 
-```
+```razor
 ...
 @using TechFellow.Optimizely.AdvancedContentArea.Forms
 ...
@@ -45,13 +45,13 @@ a) add required `using` (`Ln 18`):
 
 b) then we need to go to `Ln 98` and change from this:
 
-```
+```razor
 Html.RenderElementsInStep(step.i, step.value.Elements);
 ```
 
 to this:
 
-```
+```razor
 Html.RenderFormElements(step.i, step.value.Elements, Model);
 ```
 

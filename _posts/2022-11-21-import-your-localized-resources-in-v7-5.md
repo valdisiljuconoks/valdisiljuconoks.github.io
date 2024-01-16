@@ -3,7 +3,7 @@ title: Import Your Localized Resources in v7.5
 author: valdis
 date: 2022-11-21 13:00:00 +0200
 categories: [Add-On, Optimizely, Episerver, .NET, C#, Open Source, Localization, Localization Provider]
-tags: [Add-On, Optimizely, Episerver, .NET, C#, Open Source, Localization, Localization Provider]
+tags: [add-on, optimizely, episerver, .net, c#, open source, localization, localization provider]
 ---
 
 Import functionality has been delayed for several versions of `DbLocalizationProvider`. However, with the help of [community member](https://github.com/ruwen) - this feature has finally been implemented!

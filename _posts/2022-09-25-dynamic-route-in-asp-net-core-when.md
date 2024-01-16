@@ -3,10 +3,10 @@ title: Dynamic Route in ASP.NET Core When MapDynamicControllerRoute Does Not Wor
 author: valdis
 date: 2022-11-01 10:00:00 +0200
 categories: [Add-On, Optimizely, Episerver, .NET, C#, Open Source]
-tags: [Add-On, Optimizely, Episerver, .NET, C#, Open Source]
+tags: [add-on, optimizely, episerver, .net, c#, open source]
 ---
 
-## Background
+## Background ##
 Creating one of the add-on for Optimizely I had to deal with challenge to register dynamically route for the API controller. Dynamic route here means that user is able to provide own url segment on top of which add-on user interface and supporting API service endpoints will be registered.
 
 There have been also some [bug reports](https://github.com/valdisiljuconoks/localization-provider-epi/issues/150) around this area. So we need to address this somehow.
@@ -55,7 +55,7 @@ public class ServiceController : ControllerBase
 }
 ```
 
-## Try with Dependency Injection for Attribute
+## Try with Dependency Injection for Attribute ##
 One of the approaches would be to pass in `UiConfigurationContext` where `RootUrl` property is located to the attribute somehow.
 
 ```csharp
@@ -87,7 +87,7 @@ However this is against all best practices and requires some static context. Not
 
 Let's try another approach.
 
-## Mapping Route with DynamicControllerRoute
+## Mapping Route with DynamicControllerRoute ##
 There is a way to dynamically change matched route before it's handled. This is done by `MapDynamicControllerRoute()`.
 
 ```csharp
@@ -147,7 +147,7 @@ My speculation - `ServiceController` does not have `[Route]` attribute but is st
 
 If you have any idea - please comment! Thx
 
-## ApplicationModel to the Rescue
+## ApplicationModel to the Rescue ##
 There is another approach how to influence application behavior after runtime has finished building behavioral model for the application (scanning and registering different parts of the application).
 
 When application starts up there is a phase in the pipeline - build application model. This is process when runtime decides how application should behave - what controllers we have, actions for each controller, parameters, etc.

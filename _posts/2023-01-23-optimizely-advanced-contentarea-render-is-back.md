@@ -3,7 +3,7 @@ title: Optimizely Advanced ContentArea Renderer is Back!
 author: valdis
 date: 2023-01-23 09:00:00 +0200
 categories: [Add-On, Optimizely, Episerver, .NET, C#, Open Source]
-tags: [Add-On, Optimizely, Episerver, .NET, C#, Open Source]
+tags: [add-on, optimizely, episerver, .net, c#, open source]
 ---
 
 If you have used [EPiBootstrapArea](https://nuget.optimizely.com/package/?id=EPiBootstrapArea) package - then back in those days we had an opportunity to render Episerver `ContentArea` items with different `DisplayOptions` based on Twitter's Bootstrap [framework grid system](https://getbootstrap.com/docs/4.0/layout/grid/).

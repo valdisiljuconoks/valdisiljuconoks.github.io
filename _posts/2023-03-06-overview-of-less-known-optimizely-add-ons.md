@@ -3,7 +3,7 @@ title: Overview of some of the less-known Optimizely Add-Ons
 author: valdis
 date: 2023-03-06 10:30:00 +0200
 categories: [Add-On, Optimizely, Episerver, .NET, C#, Open Source]
-tags: [Add-On, Optimizely, Episerver, .NET, C#, Open Source]
+tags: [add-on, optimizely, episerver, .net, c#, open source]
 ---
 
 We have more than seven hundred packages (717) on Optimizely NuGet feed. Official Optimizely packages are part of this number, but the majority is community driven open-source packages enhancing and extending the platform, services and developer, administrator or editor experiences. It's a lot. And there is a great community behind this number.

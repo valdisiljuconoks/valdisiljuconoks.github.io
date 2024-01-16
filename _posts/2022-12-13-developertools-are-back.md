@@ -3,7 +3,7 @@ title: Optimizely DeveloperTools are back!
 author: valdis
 date: 2022-12-13 12:00:00 +0200
 categories: [Add-On, Optimizely, Episerver, .NET, C#, Open Source]
-tags: [Add-On, Optimizely, Episerver, .NET, C#, Open Source]
+tags: [add-on, optimizely, episerver, .net, c#, open source]
 ---
 
 Experimental project with handy tools for developers is back for Optimizely v12.

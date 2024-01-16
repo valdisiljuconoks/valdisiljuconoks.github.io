@@ -3,7 +3,7 @@ title: Optimizely Advanced ContentArea Renderer for Forms is Back!
 author: valdis
 date: 2023-02-11 17:00:00 +0200
 categories: [Add-On, Optimizely, Episerver, .NET, C#, Open Source]
-tags: [Add-On, Optimizely, Episerver, .NET, C#, Open Source]
+tags: [add-on, optimizely, episerver, .net, c#, open source]
 ---
 
 Advanced Content Area Renderer is now available for Optimizely content. However, it would be nice to apply display options to Optimizely Forms elements as well.

@@ -3,7 +3,7 @@ title: How to Build Interceptor with built-in Microsoft DI - IServiceProvider
 author: valdis
 date: 2023-04-05 14:00:00 +0200
 categories: [C#, .NET, Dependency Injection, IoC, Containers, Interceptor]
-tags: [C#, .NET]
+tags: [c#, .net, dependency injection, containers]
 ---
 
 **Service Interception** is known as an altering process to make it look like service instance is delivered to the calling site by contract, but it could altered and totally another type might be hidden by the interface.
@@ -59,7 +59,7 @@ public EngineWithTelemetry(IEngine inner, ITelemetryClient telemetryClient)
 ```
 
 ## Implementation
-Now let's get back to the interceptor registration and get it implemented. 
+Now let's get back to the interceptor registration and get it implemented.
 This is our prototype method:
 
 ```csharp
@@ -88,7 +88,7 @@ Next we need to iterate over list of target service registrations and understand
 foreach (var service in targetServices)
 {
     var ix = services.IndexOf(service);
-    
+
     if (service.ImplementationFactory == null)
     {
         ...

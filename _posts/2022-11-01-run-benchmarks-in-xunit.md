@@ -3,7 +3,7 @@ title: Run BenchmarkDotNet in xUnit
 author: valdis
 date: 2022-11-01 10:00:00 +0200
 categories: [.NET, C#, Performance, xUnit, Testing]
-tags: [.NET, C#, Performance, xUnit, Testing]
+tags: [.net, c#, performance, xunit, testing]
 ---
 
 If you ever need to run [BenchmarkDotNet](https://benchmarkdotnet.org/articles/overview.html) as part of the unit test (because sometimes it's easier to just write unit tests instead of a dedicated app), you can use this wrapper around benchmark runner.

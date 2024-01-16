@@ -1,7 +1,7 @@
 ---
 title: How to Build Interceptor with built-in Microsoft DI - IServiceProvider
 author: valdis
-date: 2024-04-05 14:00:00 +0200
+date: 2023-04-05 14:00:00 +0200
 categories: [C#, .NET, Dependency Injection, IoC, Containers, Interceptor]
 tags: [c#, .NET]
 ---

@@ -2,8 +2,8 @@
 title: How To Easily Exhaust SNAT Sockets in Your Azure Function
 author: valdis
 date: 2022-01-29 00:15:00 +0200
-categories: [Add-On, Optimizely, Episerver, .NET, C#, Open Source, DeveloperTools]
-tags: [add-on, optimizely, episerver, .net, c#, open source]
+categories: [.NET, C#, Open Source, Azure, Functions]
+tags: [.net, c#, open source, debugging, azure, functions]
 ---
 
 So here we are again - late Friday evening, some sort of hotel lobby music in my headphones (I miss travel) and this chart on my screen. I'm reaching for my keyboard to type "studio" in my [PowerToys](https://github.com/microsoft/PowerToys?ref=tech-fellow.ghost.io) power-run bar. We are running out of network sockets to talk to any service, any API - basically anything. We are at SNAT port exhaustion.

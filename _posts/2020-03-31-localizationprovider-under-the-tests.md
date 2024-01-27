@@ -2,8 +2,8 @@
 title: LocalizationProvider Under the Tests
 author: valdis
 date: 2020-03-31 18:00:00 +0200
-categories: [Add-On, Optimizely, Episerver, .NET, C#, Open Source, DeveloperTools]
-tags: [add-on, optimizely, episerver, .net, c#, open source]
+categories: [Add-On, Optimizely, Episerver, .NET, C#, Open Source, Localization Provider]
+tags: [add-on, optimizely, episerver, .net, c#, open source, localization provider, localization]
 ---
 
 Recently I got a question from a [very good friend](https://twitter.com/LucGosso) of mine about how to properly unit test localization provider.

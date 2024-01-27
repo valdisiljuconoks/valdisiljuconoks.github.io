@@ -374,7 +374,7 @@ Third option is to just define description file for the ACI using `yaml` format 
 
 Your `yaml` definition file:
 
-```
+```yaml
 api-version: 2018-10-01
 location: westeurope
 name: grpc-container

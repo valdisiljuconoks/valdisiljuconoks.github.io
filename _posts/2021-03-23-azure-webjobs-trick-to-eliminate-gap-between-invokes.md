@@ -2,8 +2,8 @@
 title: Azure WebJobs - Eliminate Gap between Runs
 author: valdis
 date: 2021-03-23 07:10:00 +0200
-categories: [.NET, C#, Open Source, Azure, WebJobs]
-tags: [.net, c#, open source, azure, webjobs]
+categories: [.NET, C#, Azure, WebJobs]
+tags: [.net, c#, azure, webjobs]
 ---
 
 Our real-time public transportation tracking systems consists of few Azure WebJobs (yes, web jobs - even in modern "execute your code on some random server you have never seen before and then dispose it" world).

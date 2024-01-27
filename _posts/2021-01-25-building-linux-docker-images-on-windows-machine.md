@@ -2,8 +2,8 @@
 title: Real-time Transport Tracking System on Azure - Part 7.1 - Fixing Docker Image Metrics in Azure
 author: valdis
 date: 2021-01-25 23:15:00 +0200
-categories: [.NET, C#, Open Source, gRPC, Azure]
-tags: [.net, c#, open source, grpc, azure]
+categories: [.NET, C#, gRPC, Azure]
+tags: [.net, c#, grpc, azure]
 ---
 
 This is next post in series about real-time public transport tracking system development based on Azure infrastructure and services. This article is a part of Applied Cloud Stories initiative - [aka.ms/applied-cloud-stories](aka.ms/applied-cloud-stories).

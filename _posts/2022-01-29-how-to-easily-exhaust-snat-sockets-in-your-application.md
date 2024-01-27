@@ -14,7 +14,7 @@ It started out of sudden. Yes, we were in the middle of packing up for the relea
 
 We noticed that out of the blue sky our azure functions started to fail with a somewhat weird error message:
 
-```csharp
+```
 2022-01-28 08:32:11.282 +00:00 [ERR] An unhandled exception has occurred while executing the request.
 Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full.)
  ---> System.ComponentModel.Win32Exception (10055): An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full.
@@ -24,7 +24,7 @@ Yeah, maybe SQL server is dead (or it's doing some circus tricks as we are scali
 
 But then after some time, other services start to fail. This time access to Azure Storage tables:
 
-```csharp
+```
 2022-01-28 08:33:38.583 +00:00 [ERR] HTTP GET /api/... responded 500 in 33791.4264 ms
 Microsoft.Azure.Cosmos.Table.StorageException: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full. (mytable.table.core.windows.net:443)
  ---> System.Net.Http.HttpRequestException: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full. (mytable.table.core.windows.net:443)

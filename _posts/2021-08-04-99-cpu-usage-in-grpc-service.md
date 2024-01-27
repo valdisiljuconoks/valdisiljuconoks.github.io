@@ -45,7 +45,7 @@ When found we can start counter monitor to see some of the indicators without co
 
 This opens old school command prompt style diagnostics panel.
 
-![99cpu-1-1](/assets/img/2021/07/99cpu-1-1.png)
+![99cpu-1-1](/assets/img/2021/08/99cpu-1-1.png)
 
 Counters are collected every second (set by `refresh-interval` argument) and values are displayed on the screen.
 

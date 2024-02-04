@@ -6,8 +6,6 @@ categories: [Add-On, .NET, C#, ASP.NET, Localization]
 tags: [add-on, .net, c#, open source, asp.net, localization]
 ---
 
-## Fixing ClientModel Validation in Asp.Net Core
-
 Story begins with small issue registered in GitHub telling that LocalizationProvider does its job excellent when model is submitted to the server and validated there. Resources are found and used then. But localization provider is not so great when `data-` attributes are generated. Issue described that text from `[Required(ErrorMessage = "...")]` or any other validation attribute was rendered in resulting markup and localization provider was not even involved.
 
 So this view model:

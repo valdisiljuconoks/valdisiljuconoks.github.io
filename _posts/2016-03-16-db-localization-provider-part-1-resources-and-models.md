@@ -1,5 +1,5 @@
 ---
-title: DbLocalizationProvider - Part 1: Resources and Models
+title: DbLocalizationProvider - Part 1 - Resources and Models
 author: valdis
 date: 2016-03-16 20:05:00 +0200
 categories: [Add-On, .NET, C#, Localization Provider, Episerver, Optimizely]

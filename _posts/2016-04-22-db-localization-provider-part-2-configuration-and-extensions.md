@@ -1,5 +1,5 @@
 ---
-title: DbLocalizationProvider - Part 2: Configuration and Extensions
+title: DbLocalizationProvider - Part 2 - Configuration and Extensions
 author: valdis
 date: 2016-04-22 20:05:00 +0200
 categories: [Add-On, .NET, C#, Localization Provider, Episerver, Optimizely]

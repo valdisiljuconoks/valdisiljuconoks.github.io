@@ -3,7 +3,7 @@ title: Configure EPiServer Media Auto Publish on Upload
 author: valdis
 date: 2016-09-23 12:00:00 +0200
 categories: [.NET, C#, Episerver, Optimizely]
-tags: [.net, c#, localization, episerver, optimizely]
+tags: [.net, c#, episerver, optimizely]
 ---
 
 In this post we will enhance media auto-publish option to gain more control over what's going to be automatically published and what will stay for manual publishing.

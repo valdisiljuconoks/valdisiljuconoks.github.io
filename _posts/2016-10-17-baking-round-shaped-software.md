@@ -2,8 +2,8 @@
 title: Baking Round Shaped Software
 author: valdis
 date: 2016-10-17 13:00:00 +0200
-categories: [.NET, C#, ASP.NET, Architecture, Pizza Architecture, Software Design]
-tags: [.net, c#, open source, asp.net, architecture, pizza architecture, software design]
+categories: [.NET, C#, Architecture, Pizza Architecture, Software Design]
+tags: [.net, c#, architecture, pizza architecture, software design]
 ---
 
 This is the story how I discovered clean, understandable and maintainable software architecture. Why it's round shape and not pentagon, hexagon or any other *-gon shape? In this blog post I'll guide you through my journey. This part will cover theoretical side. Next blog post will map it to the code.

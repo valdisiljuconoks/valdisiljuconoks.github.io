@@ -2,8 +2,8 @@
 title: Baking Round Shaped Software - Mapping to the Code
 author: valdis
 date: 2016-10-31 14:30:00 +0200
-categories: [.NET, C#, ASP.NET, Architecture, Pizza Architecture, Software Design]
-tags: [.net, c#, open source, asp.net, architecture, pizza architecture, software design]
+categories: [.NET, C#, Architecture, Pizza Architecture, Software Design]
+tags: [.net, c#, architecture, pizza architecture, software design]
 ---
 
 This part of the round shaped software blog posts as promised will be about mapping the theoretical terms and ideas mentioned in [previous post](https://tech-fellow.eu/2016/10/17/baking-round-shaped-software/) to the actual code fragments and components.

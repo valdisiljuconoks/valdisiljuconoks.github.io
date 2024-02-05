@@ -2,8 +2,8 @@
 title: Episerver Images got Responsive Resize
 author: valdis
 date: 2018-10-25 15:30:00 +0200
-categories: [Add-On, Optimizely, Episerver, .NET, C#]
-tags: [add-on, optimizely, episerver, .net, c#]
+categories: [Add-On, Optimizely, Episerver, .NET, C#, Image Resizer]
+tags: [add-on, optimizely, episerver, .net, c#, image resizer]
 ---
 
 Latest [ImageResizer](http://imageresizing.net/?ref=tech-fellow.eu) library version now can also generate `<picture>` element. Thanks to lately movement by [Erik](https://hacksbyme.net/about/?ref=tech-fellow.eu) and [Vincent](https://world.episerver.com/System/Users-and-profiles/Community-Profile-Card/?userid=be03d326-b35f-e611-9afb-0050568d2da8&ref=tech-fellow.eu).

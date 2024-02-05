@@ -2,8 +2,8 @@
 title: Baking Round Shaped Apps with MediatR
 author: valdis
 date: 2018-03-24 14:30:00 +0200
-categories: [.NET, C#, ASP.NET, Architecture]
-tags: [.net, c#, open source, asp.net, architecture]
+categories: [.NET, C#, ASP.NET, Architecture, Pizza Architecture, Software Design]
+tags: [.net, c#, open source, asp.net, architecture, pizza architecture, software design]
 ---
 
 Back in days I spent time to describe something that I called [pizza architecture](https://medium.com/@benorama/the-evolution-of-software-architecture-bd6ea674c477) - [showing off](https://tech-fellow.ghost.io/2016/10/31/baking-round-shaped-software-mapping-to-the-code/) how to organize and design applications in round shape with domain in the middle and less important transport specific channels (like web or batch environment) closer to the border of the pizza.

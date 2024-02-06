@@ -159,7 +159,7 @@ Also if you want to have multiple preview layout pages - let say different previ
 
 The way how I prefer to setup layout page for views inside area is by using `_viewstart.cshtml` page:
 
-```csharp
+```razor
 @{
     Layout = "Shared/Layouts/_SiteLayout.cshtml";
 }

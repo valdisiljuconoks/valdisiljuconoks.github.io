@@ -1,7 +1,7 @@
 ---
 title: FeatureSwitch meets Glimpse
 author: valdis
-date: 2015-01-02 11:30:00 +0200
+date: 2015-01-02 22:55:00 +0200
 categories: [.NET, C#, Feature Switch]
 tags: [.net, c#, feature switch]
 ---

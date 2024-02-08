@@ -1,7 +1,7 @@
 ---
 title: Add Community to your site created via VS Extensions
 author: valdis
-date: 2014-10-08 11:30:00 +0200
+date: 2014-10-08 09:10:00 +0200
 categories: [.NET, C#, Episerver, Optimizely]
 tags: [.net, c#, episerver, optimizely]
 ---

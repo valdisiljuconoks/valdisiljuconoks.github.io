@@ -1,7 +1,7 @@
 ---
 title: Initializable modules without EPiServer
 author: valdis
-date: 2014-08-18 11:30:00 +0200
+date: 2014-08-18 13:15:00 +0200
 categories: [.NET, C#, Episerver, Optimizely]
 tags: [.net, c#, episerver, optimizely]
 ---

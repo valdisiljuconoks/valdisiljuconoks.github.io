@@ -25,7 +25,7 @@ Original fragment:
         {
             x++;
             blockproperties.Add(new TypePropertyResultItem {
-                TypeName = x == 1 ? type.Name : “”,
+                TypeName = x == 1 ? type.Name : "",
                 PropertyName = def.Name,
                 Description = def.TranslateDescription(),
                 DisplayName = def.TranslateDisplayName()

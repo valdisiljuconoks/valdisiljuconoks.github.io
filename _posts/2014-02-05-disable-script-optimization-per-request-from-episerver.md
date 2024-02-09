@@ -2,8 +2,8 @@
 title: Disable script optimization per request from EPiServer
 author: valdis
 date: 2014-02-05 13:35:00 +0200
-categories: [.NET, C#, Add-On, Episerver, Optimizely]
-tags: [.net, c#, add-on, episerver, optimizely]
+categories: [.NET, C#, Add-On, Episerver, Optimizely, Feature Switch]
+tags: [.net, c#, add-on, episerver, optimizely, feature switch]
 ---
 
 Image that you are running the site in production environment and following best practices for client-side page performance optimization. You are using script or style bundling and minification approach to reduce size of assets to download decreasing time to load for the page.

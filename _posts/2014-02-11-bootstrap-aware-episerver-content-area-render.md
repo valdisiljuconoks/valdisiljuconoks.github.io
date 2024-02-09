@@ -1,5 +1,5 @@
 ---
-title: Responsive EPiServer Tables
+title: Bootstrap aware EPiServer content area render
 author: valdis
 date: 2014-03-06 12:35:00 +0200
 categories: [.NET, C#, Add-On, Episerver, Optimizely]

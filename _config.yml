@@ -126,10 +126,7 @@ feed:
     only:
       - episerver
       - optimizely
-    path: /feed.xml
-  categories:
-    - optimizely
-    - episerver
+    path: /episerver-feed.xml
   posts_limit: 200
 
 # ------------ The following options are not recommended to be modified ------------------

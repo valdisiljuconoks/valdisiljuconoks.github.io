@@ -130,6 +130,7 @@ feed:
   categories:
     - optimizely
     - episerver
+  posts_limit: 200
 
 # ------------ The following options are not recommended to be modified ------------------
 

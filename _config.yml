@@ -127,6 +127,9 @@ feed:
       - episerver
       - optimizely
     path: /feed.xml
+  categories:
+    - optimizely
+    - episerver
 
 # ------------ The following options are not recommended to be modified ------------------
 

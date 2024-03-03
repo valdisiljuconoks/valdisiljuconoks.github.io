@@ -30,6 +30,12 @@ Currently supported translators:
 
 * Azure [Cognitive Services](https://learn.microsoft.com/en-us/azure/ai-services/translator/translator-overview)
 
+First you will need to install Azure Cognitive AI integration package:
+
+```
+dotnet add package LocalizationProvider.Translator.Azure
+```
+
 To enable Microsoft Azure Cognitive Services as translator for Localization Provider follow these steps:
 
 * Create Cognitive Services instance in Azure

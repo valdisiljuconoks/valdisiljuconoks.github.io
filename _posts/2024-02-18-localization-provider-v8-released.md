@@ -1,7 +1,7 @@
 ---
 title: DbLocalizationProvider v8.0 Released
 author: valdis
-date: 2024-02-18 19:30:00 +0200
+date: 2024-02-28 15:00:00 +0200
 categories: [Add-On, Optimizely, Episerver, .NET, C#, Open Source, Localization, Localization Provider]
 tags: [add-on, optimizely, episerver, .net, c#, open source, localization, localization provider]
 ---

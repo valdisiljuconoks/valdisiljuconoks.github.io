@@ -1,12 +1,10 @@
 ---
-title: How to fix 'Azure.RequestFailedException: One of the request inputs is not valid.' exception
+title: How to fix Azure.RequestFailedException - One of the request inputs is not valid. exception
 author: valdis
 date: 2024-04-21 17:00:00 +0200
 categories: [.NET, C#, Open Source, Azure, Table Storage]
 tags: [.net, c#, open source, azure]
 ---
-
-## Problem with Invalid Input Accessing Azure Table Storage
 
 When you are working on APIs and want to secure access by using well-known header field names:
 

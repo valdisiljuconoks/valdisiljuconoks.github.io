@@ -29,6 +29,7 @@ If your editors are having timing issues translating the content it's now possib
 Currently supported translators:
 
 * Azure [Cognitive Services](https://learn.microsoft.com/en-us/azure/ai-services/translator/translator-overview)
+* Epicweb.Optimizely.AIAssistant. [More info here](https://optimizely.blog/2025/01/introducing-ai-assistance-for-dblocalizationprovider/)
 
 First you will need to install Azure Cognitive AI integration package:
 

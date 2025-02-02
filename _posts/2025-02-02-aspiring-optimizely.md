@@ -2,8 +2,8 @@
 title: Aspiring Optimizely
 author: valdis
 date: 2025-02-02 22:00:00 +0200
-categories: [.NET, C#, Aspire, Optimizely]
-tags: [.net, c#, aspire, optimizely]
+categories: [.NET, C#, Aspire, Optimizely, Episerver]
+tags: [.net, c#, aspire, optimizely, episerver]
 ---
 
 Adding .NET Aspire application host to your Optimizely project (even if it's just for local development) is really a time-saver when it comes to setting up your local development environment, spinning up resources you need and tracing it during runtime.
